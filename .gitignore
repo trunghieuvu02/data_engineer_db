@@ -1,0 +1,4 @@
+.idea/
+dataset/*
+yellow_tripdata_2022-01.parquet
+src/notebooks/.ipynb_checkpoints
